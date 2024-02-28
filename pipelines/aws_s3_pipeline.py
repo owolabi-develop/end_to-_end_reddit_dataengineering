@@ -1,4 +1,4 @@
-from etls.aws_etl import connect_to_s3, create_bucket_if_not_exist, upload_to_s3
+from RedditDataEngineering.etls.etl_aws import connect_to_s3, create_bucket_if_not_exist, upload_to_s3
 from utils.config import AWS_BUCKET_NAME
 
 

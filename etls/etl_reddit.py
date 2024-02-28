@@ -5,7 +5,7 @@ import pandas as pd
 import praw
 from praw import Reddit
 
-from utils.constants import POST_FIELDS
+from utils.config import POST_FIELDS
 
 
 def connect_reddit(client_id, client_secret, user_agent) -> Reddit:
