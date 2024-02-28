@@ -72,7 +72,7 @@ jsonschema==4.19.1
 jsonschema-specifications==2023.7.1
 lazy-object-proxy==1.9.0
 limits==3.6.0
-linkify-it-py==2.0.2
+linkify-it-py==2.0.3
 lockfile==0.12.2
 Mako==1.2.4
 Markdown==3.5
